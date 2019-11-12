@@ -1,6 +1,6 @@
 # Elearning Pertemuan 6 2019
 Mengerjakan dan memperbaiki modul pertemuan 6 Teknologi Webservice UBSI, WARNING!, bad practice to make an android's app :/,
-Pengkodean cukup buruk, cukup dipelajari alur kerjanya saja, silahkan berkreasi dengan skill pemrograman masing2.
+Pengkodean cukup buruk, pelajari alur kerjanya saja, silahkan berkreasi dengan skill pemrograman masing2.
 
 ## Cara Menerapkan
 > 1. Pindahkan file `elearning_p6.php` yang ada difolder `server` kedalam folder `[folder xampp]/htdocs`.

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CRUD Elearning BSI</string>
+    <string name="str_tambah_biodata">Tambah Biodata</string>
+    <string name="str_id">ID</string>
+    <string name="str_nim">NIM</string>
+    <string name="str_nama">Nama</string>
+    <string name="str_alamat">Alamat</string>
+    <string name="str_action">Action</string>
+    <string name="str_edit">Edit</string>
+    <string name="str_delete">Delete</string>
+</resources>
